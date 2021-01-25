@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1574877327 source:c:\estevam amorim\#6 período\computação gráfica\projetos\donkey kong 3d\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<modelos.h>
+
+976692172 c:\program files\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1574885937 c:\estevam amorim\#6 período\computação gráfica\projetos\donkey kong 3d\modelos.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1574877327 source:c:\estevam amorim\curso ciências da computação\#6 período\computação gráfica\projetos\donkey kong 3d\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<modelos.h>
+
+1574885937 c:\estevam amorim\curso ciências da computação\#6 período\computação gráfica\projetos\donkey kong 3d\modelos.h
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+
+1574877327 source:c:\estevam amorim\curso ciências da computação\#6 período\computação gráfica\projetos\donkey-kong-3d\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<modelos.h>
+
